@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.18)
+project(memory_model CUDA CXX)
+set(CMAKE_CUDA_STANDARD 17)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CUDA_ARCHITECTURES 89)
+add_executable(memory_demo main.cu)
