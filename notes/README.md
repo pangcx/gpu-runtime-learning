@@ -14,6 +14,7 @@
 | [06-badcase-analysis.md](./06-badcase-analysis.md) | Badcase 分析与模型优化方法论 |
 | [07-datasets.md](./07-datasets.md) | 公开数据集汇总 |
 | [08-llm-vs-small-model.md](./08-llm-vs-small-model.md) | 大语言模型 vs 垂类小模型 |
+| [09-cuda-basics.md](./09-cuda-basics.md) | CUDA 并行编程基础：线程层次、Warp、内存模型 |
 
 ## 配套代码
 
@@ -23,3 +24,5 @@
 | `mnist-demo/train.py` | MNIST 全连接网络（MLP） |
 | `mnist-demo/train_cnn.py` | MNIST 卷积神经网络（CNN） |
 | `mnist-demo/export_badcases.py` | Badcase 导出与分析 |
+| `01-modern-cpp/` | C++ 现代语法实践项目（内存/模板/并发/STL）|
+| `02-cuda/` | CUDA 并行编程实践项目 |
