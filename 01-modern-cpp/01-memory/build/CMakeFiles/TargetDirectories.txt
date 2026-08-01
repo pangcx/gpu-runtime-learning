@@ -1,3 +1,0 @@
-/Users/pangchuanxiao/Workspace/gpu-runtime-learning/01-modern-cpp/01-memory/build/CMakeFiles/memory_demo.dir
-/Users/pangchuanxiao/Workspace/gpu-runtime-learning/01-modern-cpp/01-memory/build/CMakeFiles/edit_cache.dir
-/Users/pangchuanxiao/Workspace/gpu-runtime-learning/01-modern-cpp/01-memory/build/CMakeFiles/rebuild_cache.dir

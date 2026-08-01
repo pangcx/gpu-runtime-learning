@@ -1,6 +1,5 @@
 # Build artifacts
-hello-libtorch/build/
-mnist-demo/build/
+**/build/
 
 # Model weights
 mnist-demo/*.pth
