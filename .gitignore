@@ -1,0 +1,24 @@
+# Build artifacts
+hello-libtorch/build/
+mnist-demo/build/
+
+# Model weights
+mnist-demo/*.pth
+
+# Badcase outputs
+mnist-demo/badcases/
+
+# MNIST dataset cache
+mnist-demo/data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# macOS
+.DS_Store
+
+# CodeFlicker / IDE
+.codeflicker/
