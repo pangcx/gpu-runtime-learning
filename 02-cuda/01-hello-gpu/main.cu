@@ -64,7 +64,6 @@ void print_gpu_info() {
     printf("每个 Block 最多线程: %d\n", prop.maxThreadsPerBlock);
     printf("Warp 大小: %d\n", prop.warpSize);                  // 32，CUDA 并行的最小单位
     printf("计算能力: %d.%d\n", prop.major, prop.minor);       // 4090 = 8.9
-    printf("时钟频率: %.2f GHz\n", prop.clockRate / 1e6);
     printf("\n");
 }
 
