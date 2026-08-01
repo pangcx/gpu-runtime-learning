@@ -15,6 +15,8 @@
 | [07-datasets.md](./07-datasets.md) | 公开数据集汇总 |
 | [08-llm-vs-small-model.md](./08-llm-vs-small-model.md) | 大语言模型 vs 垂类小模型 |
 | [09-cuda-basics.md](./09-cuda-basics.md) | CUDA 并行编程基础：线程层次、Warp、内存模型 |
+| [10-career-ai-gpu-engineer.md](./10-career-ai-gpu-engineer.md) | 岗位分析：AI框架适配工程师 vs AI驱动工程师 |
+| [11-hardware-setup.md](./11-hardware-setup.md) | CUDA 学习主机配置建议 |
 
 ## 配套代码
 
